@@ -21,6 +21,8 @@ int main()
 	std::cout << x; // Will output whatever is at the memory location.
 
 	// Rule: Take care to avoid all situations that result in undefined behaviour, such as using uninitialized variables.
+
+	return 0;
 }
 
 

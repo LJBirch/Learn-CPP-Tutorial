@@ -46,4 +46,6 @@ int main()
 
 	// Holds number of chars in a piece of text -- including whitespace and punctuation!
 	int numberOfChars;
+
+	return 0;
 }

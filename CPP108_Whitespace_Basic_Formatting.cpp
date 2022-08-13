@@ -85,4 +85,6 @@ int main()
 	std::cout << "Yeah!\n";
 
 	// Using the automatic formatting feature is highly recommended to keep your code’s formatting style consistent.
+
+	return 0;
 }
