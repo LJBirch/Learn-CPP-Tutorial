@@ -33,5 +33,8 @@
     <ClCompile Include="CPP106_Unitialized_Variables_Undefined_Behaviour.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP107_Keywords_Naming_Identifiers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
