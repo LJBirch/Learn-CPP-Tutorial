@@ -36,5 +36,8 @@
     <ClCompile Include="CPP107_Keywords_Naming_Identifiers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP108_Whitespace_Basic_Formatting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
