@@ -54,5 +54,8 @@
     <ClCompile Include="CPP202_Function_Return_Values.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP203_Void_Functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
