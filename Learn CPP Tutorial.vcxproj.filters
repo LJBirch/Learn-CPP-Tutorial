@@ -60,5 +60,8 @@
     <ClCompile Include="CPP204_Introduction_Function_Parameters_Arguments.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP205_Introduction_Local_Scope.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
