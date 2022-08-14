@@ -66,5 +66,8 @@
     <ClCompile Include="CPP206_Effectively_Using_Functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP207_Forward_Declarations_Definitions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
