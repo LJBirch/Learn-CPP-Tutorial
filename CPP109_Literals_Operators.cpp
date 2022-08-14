@@ -27,12 +27,9 @@ int main()
 
 	// Some operators have more than one meaning depending on how they're used. For example operator- can be used to convert 5 to -5 (unary) or to add 4 + 3 (binary).
 
-
 	// Operands can be chainged together to create the desired output. Example: 2 * 3 + 4.
 	// They follow a specific order of which are executed first.
 	// This is the way the are executed in standard mathematics, that is Brackets Indices Division Multiplication Addition Subtraction (BIDMAS).
-
-
 
 	return 0;
 }

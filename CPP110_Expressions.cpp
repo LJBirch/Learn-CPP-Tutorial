@@ -64,5 +64,7 @@ int main()
         return 0;
     }
 
-    Answer: 5 4 0.   
+    Answer: 5 
+            4
+            0.   
  */
