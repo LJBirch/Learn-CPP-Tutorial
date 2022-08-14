@@ -51,5 +51,8 @@
     <ClCompile Include="CPP201_Introduction_Functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP202_Function_Return_Values.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
