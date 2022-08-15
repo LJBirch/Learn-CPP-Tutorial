@@ -75,5 +75,8 @@
     <ClCompile Include="add.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP209_Naming_Collisions_Introduction_Namespaces.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
