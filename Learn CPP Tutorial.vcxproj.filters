@@ -87,6 +87,9 @@
     <ClCompile Include="CPP212_Header_Guards.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP213_Designing_Your_First_Programs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
