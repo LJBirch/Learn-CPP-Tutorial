@@ -90,6 +90,9 @@
     <ClCompile Include="CPP213_Designing_Your_First_Programs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP301_Syntax_Semantic_Errors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
