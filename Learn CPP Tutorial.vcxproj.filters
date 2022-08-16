@@ -99,6 +99,9 @@
     <ClCompile Include="CPP303_Strategy_For_Debugging.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP304_Basic_Debugging_Tactics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
