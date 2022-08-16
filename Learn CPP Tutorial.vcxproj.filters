@@ -102,6 +102,12 @@
     <ClCompile Include="CPP304_Basic_Debugging_Tactics.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP305_More_Debugging_Tactics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP306_307_308_309_Using_Integrated_Debugger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
