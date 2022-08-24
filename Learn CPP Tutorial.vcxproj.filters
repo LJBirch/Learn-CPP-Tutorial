@@ -120,6 +120,9 @@
     <ClCompile Include="CPP403_Object_Sizes_Sizeof_Operator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP404_Signed_Integers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
