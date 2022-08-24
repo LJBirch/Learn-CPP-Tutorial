@@ -111,6 +111,9 @@
     <ClCompile Include="CPP310_Finding_Issues_Before_Problems.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP401_Introduction_Fundamental_Data_Types.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
