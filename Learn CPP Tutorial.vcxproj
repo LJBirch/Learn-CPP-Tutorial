@@ -272,6 +272,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="CPP404_Signed_Integers.cpp" />
+    <ClCompile Include="CPP405_Unsigned_Integers_Avoidance.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">

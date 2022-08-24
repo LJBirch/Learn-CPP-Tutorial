@@ -123,6 +123,9 @@
     <ClCompile Include="CPP404_Signed_Integers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP405_Unsigned_Integers_Avoidance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
