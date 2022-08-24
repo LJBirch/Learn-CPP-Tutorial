@@ -108,6 +108,9 @@
     <ClCompile Include="CPP306_307_308_309_Using_Integrated_Debugger.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP310_Finding_Issues_Before_Problems.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
