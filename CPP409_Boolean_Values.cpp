@@ -36,7 +36,7 @@ int main()
 	// This may generate a warning in some compiliers.
 
 	// If std::boolalhpa is enabled with std::cin, it can take the words true or false and resolve them to be a boolean.
-	// Otherwise it will silently fail if anything other than “0” and “1” are entered and will resolve everything to 0 (false).
+	// Otherwise it will silently fail if anything other than “0” and “1” are entered and will resolve everything to 1 (true).
 
 	// Allow the user to enter 'true' or 'false' for boolean values
 	// This is case-sensitive, so True or TRUE will not work

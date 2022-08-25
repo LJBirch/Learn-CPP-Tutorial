@@ -138,6 +138,9 @@
     <ClCompile Include="CPP409_Boolean_Values.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP410_Introduction_If_Statements.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
