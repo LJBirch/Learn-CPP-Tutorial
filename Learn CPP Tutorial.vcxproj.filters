@@ -147,6 +147,9 @@
     <ClCompile Include="CPP412_Introduction_Type_Conversion.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP413_Const_Variables_Symbolic_Constants.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
