@@ -129,6 +129,9 @@
     <ClCompile Include="CPP406_Fixed_Width_Integers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP407_Introduction_Scientific_Notation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">

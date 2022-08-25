@@ -280,6 +280,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="CPP406_Fixed_Width_Integers.cpp" />
+    <ClCompile Include="CPP407_Introduction_Scientific_Notation.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
