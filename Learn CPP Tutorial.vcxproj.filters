@@ -162,6 +162,9 @@
     <ClCompile Include="CPP417_Introudction_Standard_String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP418_Introduction_Standard_String_View.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">

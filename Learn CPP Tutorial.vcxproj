@@ -327,6 +327,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="CPP418_Introduction_Standard_String_View.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
