@@ -132,6 +132,9 @@
     <ClCompile Include="CPP407_Introduction_Scientific_Notation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP408_Floating_Point_Numbers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
