@@ -153,6 +153,9 @@
     <ClCompile Include="CPP414_Compile_Time_Constants_Constant_Expressions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP415_Literals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
