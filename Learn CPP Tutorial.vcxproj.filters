@@ -168,6 +168,9 @@
     <ClCompile Include="CPP501_Operator_Precedence_Associativity.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP502_Arithmetic_Operators.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
