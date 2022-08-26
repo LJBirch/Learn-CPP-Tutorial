@@ -336,6 +336,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="CPP502_Arithmetic_Operators.cpp" />
+    <ClCompile Include="CPP503_Modulus_Exponentiation.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">

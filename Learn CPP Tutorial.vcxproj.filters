@@ -171,6 +171,9 @@
     <ClCompile Include="CPP502_Arithmetic_Operators.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP503_Modulus_Exponentiation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
