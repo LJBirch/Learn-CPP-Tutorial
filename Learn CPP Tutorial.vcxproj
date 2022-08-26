@@ -344,6 +344,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="CPP504_Increment_Decrement_Operators.cpp" />
+    <ClCompile Include="CPP505_Comma_Conditional_Operators.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
