@@ -72,5 +72,7 @@ int main()
 
 	// Returning a std::string_view from a function is usually a bad idea (discussed in detail later).
 
+	// Best Practice: Use std:string_view for read-only strings, std::string for those the need to be manipulated.
+
 	return 0;
 }

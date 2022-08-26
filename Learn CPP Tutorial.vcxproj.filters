@@ -165,6 +165,9 @@
     <ClCompile Include="CPP418_Introduction_Standard_String_View.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CPP501_Operator_Precedence_Associativity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
